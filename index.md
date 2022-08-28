@@ -146,14 +146,28 @@ Möchtest du gerne immer auf dem Laufenden betreffend internationalen Events ble
     <td>ESG LTS 2022</td>
     <td>Köln, Deutschland</td>
     <td>ab 16 Jahren</td>
-    <td>Das ESG Leadership Training und Seminar bietet die Möglichkeit sich mit anderen Scouts des YMCA Europa auszutauschen. In den vier Tagen Seminar und Training werden viele spannende Diskussionen geführt und es gibt coole Aktivitäten. <br><a href="https://db.cevi.ch/groups/1819/public_events/2970">Anmeldung</a>, <a href="https://www.ymcaeurope.com/esg-leadership-training-and-seminar-2022">Informationen YMCA Europe</a></td>
+    <td>Das ESG Leadership Training und Seminar bietet die Möglichkeit sich mit anderen Scouts des YMCA Europa auszutauschen. In den vier Tagen Seminar und Training werden viele spannende Diskussionen geführt und es gibt coole Aktivitäten.<br>Siehe <a href="https://db.cevi.ch/groups/1819/public_events/2970">Anmeldung</a> und <a href="https://www.ymcaeurope.com/esg-leadership-training-and-seminar-2022">Informationen YMCA Europe</a></td>
   </tr>
   <tr>
     <td>04. - 09. September 2022</td>
     <td>YWCA Study Session</td>
     <td>Budapest, Ungarn</td>
     <td>Cevianerinnen zwischen 18 - 30 Jahren</td>
-    <td>An der YWCA Study Session geht es um «Young women advocates for human rights, participation and social justice”. Tausche dich mit anderen Frauen aus europäischen YWCAs zu Themen wie pluralistische Demokratie, das friedliche Zusammenleben, Menschenrechte, politische Teilhabe, etc. aus.<br><a href="https://www.cevi.ch/blog-details/ymcastudysession2022/">Mehr Informationen</a></td>
+    <td>An der YWCA Study Session geht es um «Young women advocates for human rights, participation and social justice”. Tausche dich mit anderen Frauen aus europäischen YWCAs zu Themen wie pluralistische Demokratie, das friedliche Zusammenleben, Menschenrechte, politische Teilhabe und mehr aus.</td>
+  </tr>
+  <tr>
+    <td>15. - 24. Oktober 2022</td>
+    <td>Olivenernte</td>
+    <td>Palästina</td>
+    <td>???</td>
+    <td>Unterstützt durch Horyzon. Kosten: 900 - 1'200 USD je nach Unterkunft + Reise. Das Programm ist eine internationale Solidaritäts- und Schutzaktion für die palästinensischen Bauern und Familien, um sie bei der Ernte ihrer Olivenbäume zu unterstützen, die von Angriffen, Entwurzlung, Beschlagnahmungen und Einschränkungen bedroht sind. Neben der Olivenernte umfasst das Programm auch Führungen in verschiedenen Städten, palästinensischer Kultur und einführernde Vorträge zu Konfliktthemen. <a href="https://www.jai-pal.org/en/campaigns/olive-tree-campaign/olive-picking-program/picking2022-inv">Weitere Informationen</a></td>
+  </tr>
+  <tr>
+    <td>20. - 23. Oktober 2022</td>
+    <td>European Unify Conference</td>
+    <td>Wien</td>
+    <td>???</td>
+    <td>Feire die christlichen Wurzeln des Cevi. Kosten: 95 Euro Festival + Reise + Unterkunft. <a href="https://www.ymca-unify.eu/european/unify_2022">Weitere Informationen</a>, <a href="https://mcusercontent.com/4164786c200962ea4be64ffd8/files/20dfc6b4-c4f8-19fe-6006-d42a99a47a60/Program_Unify_2022.pdf">Programm</a></td>
   </tr>
   <tr>
     <td>Mai 2023</td>
@@ -166,6 +180,60 @@ Möchtest du gerne immer auf dem Laufenden betreffend internationalen Events ble
 
 <h2>Volonatriate</h2>
 
-<p><strong>Horyzon</strong> bietet 3-6 monatige Einsätze. Teilweise sind auch Kurzeinsätze von 2 Wochen möglich. Aktuell sind Einsätze beim YMCA Kolumbien und YMCA/YWCA Palästina möglich. <a href="https://horyzon.ch/de/spenden-und-unterstuetzen/einsaetze-weltweit/volontariat/">Weitere Informationen</a></p>
+<table>
+<tr>
+  <th>Organisation</th>
+  <th>Standort</th>
+  <th>Dauer</th>
+  <th>Alter</th>
+  <th>Beschreibung</th>
+</tr>
+<tr>
+  <td><a href="https://horyzon.ch">Horyzon</a></td>
+  <td>Kolumbien, Palästina</td>
+  <td>2 Wochen, 3-6 Monate</td>
+  <td></td>
+  <td>Siehe <a href="https://horyzon.ch/de/spenden-und-unterstuetzen/einsaetze-weltweit/volontariat/">weitere Informationen</a></td>
+</tr>
+<tr>
+  <td><a href="http://vfe.cvjm.de/">Volunteers for Europe</a></td>
+  <td>Diverse</td>
+  <td>6-12 Monate</td>
+  <td>18 - 25 Jahre</td>
+  <td>Austauschprogramm von YMCA Europa.<br>Siehe <a href="https://www.ymcaeurope.com/about-volunteers-for-europe-vfe">YMCA Europe</a> und <a href="http://vfe.cvjm.de/">Webseite des Austauschprogramms</a></td>
+</tr>
+<tr>
+  <td><a href="https://www.greenhill-ymca.org/">YMCA Greenhill</a></td>
+  <td>Nordirland</td>
+  <td>6 Wochen</td>
+  <td>Ab 15 Jahre</td>
+  <td>Führt jeden Sommer im Juli/August 3 Camps für 600 6 - 14 jährige Jugendliche durch. 15 - 17 jährige können sich als Assistent Leaders bewerben. Ältere als vollwertige Leader. Siehe <a href="https://www.greenhill-ymca.org/">Webseite</a>, <a href="https://www.instagram.com/greenhill_ymca/">Instagram</a> und <a href="https://www.facebook.com/greenhill.ymca">Facebook</a></td>
+</tr>
+<tr>
+  <td><a href="https://www.greenhill-ymca.org/">YMCA Greenhill</a></td>
+  <td>Nordirland</td>
+  <td>1 Jahr</td>
+  <td>Ab 18 Jahre</td>
+  <td>Jährlich werden 16 - 20 internationale Volontäre gesucht, welche Outdoor Aktivitäten mit Jugendlichen durchführen. Start ist jeweils Januar und September. Wöchentlich finden ca. 10-12 Sessions statt, welche jeweils einige Stunden am Morgen, Nachmittag oder Abend dauern. Eine Gruppenunterkunft und Mahlzeiten werden kostenlos zur Verfügung gestellt. Siehe <a href="https://www.greenhill-ymca.org/">Webseite</a>, <a href="https://www.instagram.com/greenhill_ymca/">Instagram</a> und <a href="https://www.facebook.com/greenhill.ymca">Facebook</a></td>
+</tr>
+<tr>
+  <td><a href="http://atg.ps/#tab-630b2f630a098-3">ATG</a></td>
+  <td>Palästina</td>
+  <td>?</td>
+  <td>?</td>
+  <td><a href="http://atg.ps/#tab-630b2f630a098-3">Mehr Informationen</a></td>
+</tr>
+</table>
 
-<p><strong>Volunteers for Europe</strong> ist ein Austauschprogramm von YMCA Europa. Es richtet sich an 18 - 25 jährige und es werden 6-12 monatige Einsätze vermittelt. <a href="https://www.ymcaeurope.com/about-volunteers-for-europe-vfe">Mehr Informationen YMCA Europe</a>, <a href="http://vfe.cvjm.de/">Webseite des Austauschprogramms</a></p>
+<h2>Reisen</h2>
+
+<table>
+<tr>
+  <th>Organisation</th>
+  <th>Standort</th>
+</tr>
+<tr>
+  <td><a href="http://atg.ps/">ATG (Alternative Tourism Group)</a></td>
+  <td>Palästina</td>
+</tr>
+</table>
