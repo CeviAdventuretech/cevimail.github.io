@@ -142,32 +142,18 @@ Möchtest du gerne immer auf dem Laufenden betreffend internationalen Events ble
     <th>Beschreibung</th>
   </tr>
   <tr>
-    <td>17. - 21. August 2022</td>
-    <td>ESG LTS 2022</td>
-    <td>Köln, Deutschland</td>
-    <td>ab 16 Jahren</td>
-    <td>Das ESG Leadership Training und Seminar bietet die Möglichkeit sich mit anderen Scouts des YMCA Europa auszutauschen. In den vier Tagen Seminar und Training werden viele spannende Diskussionen geführt und es gibt coole Aktivitäten.<br>Siehe <a href="https://db.cevi.ch/groups/1819/public_events/2970">Anmeldung</a> und <a href="https://www.ymcaeurope.com/esg-leadership-training-and-seminar-2022">Informationen YMCA Europe</a></td>
-  </tr>
-  <tr>
-    <td>04. - 09. September 2022</td>
-    <td>YWCA Study Session</td>
-    <td>Budapest, Ungarn</td>
-    <td>Cevianerinnen zwischen 18 - 30 Jahren</td>
-    <td>An der YWCA Study Session geht es um «Young women advocates for human rights, participation and social justice”. Tausche dich mit anderen Frauen aus europäischen YWCAs zu Themen wie pluralistische Demokratie, das friedliche Zusammenleben, Menschenrechte, politische Teilhabe und mehr aus.</td>
-  </tr>
-  <tr>
     <td>15. - 24. Oktober 2022</td>
     <td>Olivenernte</td>
     <td>Palästina</td>
-    <td>???</td>
+    <td></td>
     <td>Unterstützt durch Horyzon. Kosten: 900 - 1'200 USD je nach Unterkunft + Reise. Das Programm ist eine internationale Solidaritäts- und Schutzaktion für die palästinensischen Bauern und Familien, um sie bei der Ernte ihrer Olivenbäume zu unterstützen, die von Angriffen, Entwurzlung, Beschlagnahmungen und Einschränkungen bedroht sind. Neben der Olivenernte umfasst das Programm auch Führungen in verschiedenen Städten, palästinensischer Kultur und einführernde Vorträge zu Konfliktthemen. <a href="https://www.jai-pal.org/en/campaigns/olive-tree-campaign/olive-picking-program/picking2022-inv">Weitere Informationen</a></td>
   </tr>
   <tr>
     <td>20. - 23. Oktober 2022</td>
     <td>European Unify Conference</td>
     <td>Wien</td>
-    <td>???</td>
-    <td>Feire die christlichen Wurzeln des Cevi. Kosten: 95 Euro Festival + Reise + Unterkunft. <a href="https://www.ymca-unify.eu/european/unify_2022">Weitere Informationen</a>, <a href="https://mcusercontent.com/4164786c200962ea4be64ffd8/files/20dfc6b4-c4f8-19fe-6006-d42a99a47a60/Program_Unify_2022.pdf">Programm</a></td>
+    <td></td>
+    <td>Fest zu den christlichen Wurzeln des Cevi. Kosten: 95 Euro Festival + Reise + Unterkunft. <a href="https://www.ymca-unify.eu/european/unify_2022">Weitere Informationen</a>, <a href="https://mcusercontent.com/4164786c200962ea4be64ffd8/files/20dfc6b4-c4f8-19fe-6006-d42a99a47a60/Program_Unify_2022.pdf">Programm</a></td>
   </tr>
   <tr>
     <td>Mai 2023</td>
@@ -175,6 +161,13 @@ Möchtest du gerne immer auf dem Laufenden betreffend internationalen Events ble
     <td>Antwerp, Belgien</td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>28. Juni - 02. Juli 2023</td>
+    <td>YE 50th anniversary - Berlin 2023</td>
+    <td>Berlin, Deutschland</td>
+    <td></td>
+    <td>Es werden ca. 500 Personen erwartet. Detailinformationen folgen Ende September/Anfang Oktober.</td>
   </tr>
 </table>
 
@@ -219,11 +212,26 @@ Möchtest du gerne immer auf dem Laufenden betreffend internationalen Events ble
 <tr>
   <td><a href="http://atg.ps/#tab-630b2f630a098-3">ATG</a></td>
   <td>Palästina</td>
-  <td>?</td>
-  <td>?</td>
+  <td></td>
+  <td></td>
   <td><a href="http://atg.ps/#tab-630b2f630a098-3">Mehr Informationen</a></td>
 </tr>
 </table>
+
+
+<h2>Austausch</h2>
+
+<table>
+<tr>
+  <th>Organisation</th>
+  <th>Beschreibung</th>
+</tr>
+<tr>
+  <td>YMCA Uppsala, Sweden</td>
+  <td>Organisieren <a href="https://kfumalnas.se/">Sommerlager</a> mit 300 Kindern und 150 Leitern. Sind interessiert an einem Leiteraustausch. <a href="mailto:lagerchef@kfumalnas.se">Kontakt</a></td>
+</tr>
+</table>
+
 
 <h2>Reisen</h2>
 
